@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "266207274709",
+    "firebase_url": "https://womansafetyfinal-edf04.firebaseio.com",
+    "project_id": "womansafetyfinal-edf04",
+    "storage_bucket": "womansafetyfinal-edf04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266207274709:android:9b652ddaaaf2d89b25e45c",
+        "android_client_info": {
+          "package_name": "com.vitmas.womansafetyfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266207274709-en7e6e135ucg48csp064lqufc0vj5eab.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vitmas.womansafetyfinal",
+            "certificate_hash": "d271d503912e944637f22daaf8e33650789d5e5a"
+          }
+        },
+        {
+          "client_id": "266207274709-a215n27iuo0q50u2g2soha23g0bu2bof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPz0azC-afqKQU9cvxRcqcaq6P_tXlRJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266207274709-a215n27iuo0q50u2g2soha23g0bu2bof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

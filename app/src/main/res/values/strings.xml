@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WomanSafetyFinal</string>
+    <string name="open">Open</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="permissions">Permission</string>
+    <string name="open_Maps">Open Maps</string>
+    <string name="openlocation">Open Location</string>
+</resources>
